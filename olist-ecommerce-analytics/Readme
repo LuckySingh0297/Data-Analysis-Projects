@@ -1,1 +1,110 @@
+# 📊 Olist E-Commerce Data Analytics Project
 
+## 🚀 Project Overview
+
+This project is an End-to-End Data Analytics and Business Intelligence solution built using Python, SQL, Power BI, and Plotly Dash.
+
+The objective of this project is to analyze Olist E-Commerce data, generate business insights, and create interactive dashboards for decision-making.
+
+---
+
+# 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- Power BI
+- Plotly
+- Dash
+- Jupyter Notebook
+
+---
+
+# 📂 Dataset Information
+
+The dataset used is the Brazilian Olist E-Commerce Dataset.
+
+Datasets included:
+
+- Customers Dataset
+- Orders Dataset
+- Products Dataset
+- Payments Dataset
+- Reviews Dataset
+- Sellers Dataset
+
+---
+
+# 📊 Features
+
+✅ Data Cleaning  
+✅ Exploratory Data Analysis  
+✅ Feature Engineering  
+✅ SQL Analysis  
+✅ Power BI Dashboard  
+✅ Interactive Dash Web App  
+
+---
+
+# 📈 Dashboard Features
+
+- KPI Cards
+- Monthly Sales Trends
+- Payment Analysis
+- Review Distribution
+- Product Category Insights
+- Interactive Filtering
+
+---
+
+# 📂 Project Structure
+
+```bash
+olist-ecommerce-analytics/
+│
+├── data/
+├── notebooks/
+├── dashboard/
+├── screenshots/
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── LICENSE
+```
+
+---
+
+# ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/olist-ecommerce-analytics.git
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# ▶️ Run the Application
+
+```bash
+python app.py
+```
+
+---
+
+# 👨‍💻 Author
+
+Lucky Singh
+
+Aspiring Data Scientist | Data Analyst
+
+---
+
+# ⭐ If You Like This Project, Give It a Star!
